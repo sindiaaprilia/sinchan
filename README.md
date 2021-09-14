@@ -1,0 +1,2 @@
+# sinchan
+my first repository
